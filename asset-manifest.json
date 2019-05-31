@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nasa_news_feeds_app/static/css/main.6f0012f1.chunk.css",
+    "main.js": "/nasa_news_feeds_app/static/js/main.df38b7a8.chunk.js",
+    "main.js.map": "/nasa_news_feeds_app/static/js/main.df38b7a8.chunk.js.map",
+    "runtime~main.js": "/nasa_news_feeds_app/static/js/runtime~main.a019a25f.js",
+    "runtime~main.js.map": "/nasa_news_feeds_app/static/js/runtime~main.a019a25f.js.map",
+    "static/css/2.428527f0.chunk.css": "/nasa_news_feeds_app/static/css/2.428527f0.chunk.css",
+    "static/js/2.c44cf31d.chunk.js": "/nasa_news_feeds_app/static/js/2.c44cf31d.chunk.js",
+    "static/js/2.c44cf31d.chunk.js.map": "/nasa_news_feeds_app/static/js/2.c44cf31d.chunk.js.map",
+    "index.html": "/nasa_news_feeds_app/index.html",
+    "precache-manifest.9eb9f23702ea140b20c9225dd9f96531.js": "/nasa_news_feeds_app/precache-manifest.9eb9f23702ea140b20c9225dd9f96531.js",
+    "service-worker.js": "/nasa_news_feeds_app/service-worker.js",
+    "static/css/2.428527f0.chunk.css.map": "/nasa_news_feeds_app/static/css/2.428527f0.chunk.css.map",
+    "static/css/main.6f0012f1.chunk.css.map": "/nasa_news_feeds_app/static/css/main.6f0012f1.chunk.css.map",
+    "static/media/cneos_logo.png": "/nasa_news_feeds_app/static/media/cneos_logo.aa9ad394.png",
+    "static/media/home.css": "/nasa_news_feeds_app/static/media/earth2.eafbc460.png",
+    "static/media/facebook.png": "/nasa_news_feeds_app/static/media/facebook.9d7a50f2.png",
+    "static/media/font-awesome.min.css": "/nasa_news_feeds_app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/instagram.png": "/nasa_news_feeds_app/static/media/instagram.751a308e.png",
+    "static/media/nasa-logo.svg": "/nasa_news_feeds_app/static/media/nasa-logo.80115d2c.svg"
+  }
+}
